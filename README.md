@@ -89,4 +89,4 @@ The final figure is saved automatically to `images/business_performance_charts.p
 ## Author
 
 Adekogbon Obadamilare Testimony
-GitHub: [Obadamilare](https://github.com/Obadamilare)
+
